@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "a",
+    "type": "java.lang.String",
+    "description": "A description for 'a'"
+  },
+  {
+    "name": "duration",
+    "type": "java.lang.String",
+    "description": "A description for 'duration'"
+  },
+  {
+    "name": "attempts",
+    "type": "java.lang.String",
+    "description": "A description for 'attempts'"
+  }
+]}
